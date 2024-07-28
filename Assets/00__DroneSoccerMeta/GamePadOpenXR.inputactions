@@ -110,6 +110,28 @@
                 },
                 {
                     "name": "",
+                    "id": "ccb6042e-5d34-48dc-a65a-5bac06b368a4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JoysitckLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "86f299c7-36ab-4cac-8922-04e521b56e95",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JoysitckLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "01b421b2-ac9d-4514-b879-5f36d7e51d92",
                     "path": "<OculusTouchController>{RightHand}/thumbstick",
                     "interactions": "",
@@ -200,6 +222,17 @@
                     "name": "",
                     "id": "6be37f5a-ea6d-43ee-b073-14178f40c9a1",
                     "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>{RightHand}/triggerpressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "db6f8697-1317-4c32-9ea8-a299e965f3ba",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
